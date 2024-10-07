@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-07T14:22:22" hostname="RG-STRIX" time="0.015">
+  <properties/>
+  <testcase name="testPersonAgeRange()" classname="MainTest" time="0.011"/>
+  <testcase name="testPersonCreation()" classname="MainTest" time="0.001"/>
+  <testcase name="testPersonEducationLevel()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
